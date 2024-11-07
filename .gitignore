@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+
+# Sensitive files
+#secrets.py
+#google-auth.json
+#settings.py
+
+# System files and editor settings
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
